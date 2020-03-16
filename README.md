@@ -27,7 +27,7 @@ To get the webcam configured correctly, it turns out the the software for Mac fr
 
 I used the following equipment:
 
-1.  [Neewer Softbox Light (one pair)](https://www.amazon.co.uk/gp/product/B01C54HM0O/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+1.  [Neewer Softbox Lights (one pair)](https://www.amazon.co.uk/gp/product/B01C54HM0O/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 1.  [Logitech C920s Webcam](https://www.amazon.co.uk/gp/product/B07MM4V7NR/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
 1.  [Webcam Settings Mac App](https://apps.apple.com/gb/app/webcam-settings/id533696630?mt=12)
 
