@@ -1,4 +1,4 @@
-# audio-setup
+# video-setup
 A description of my video setup for podcasting and online training videos.
 
 ## Background
@@ -17,11 +17,11 @@ This guide is a companion guide to my [Audio Setup Guide](https://github.com/fai
 
 I started off experimenting using my iMac iSight camera and natural light.  The shadows were too strong and there was a yellow hue in the overall image.  The background was being captured also because the iMac camera is wide angle.
 
-From udemy videos and youtube I found that the Logitech Webcam was highlighly regarded.  I tried to use a cloth background with it but because I am recording in HD, I could see it was a creased piece of white cloth.  So I abandoned that approach and instead use my white wall.  It has imperfections but it comes across ok.  To get clean (white-ish) lighting I used two softbox lights.  To make in-video camera picture-in-picture work properly I updated my Keynote slides.  By viewing the master slide I was able to place a blue square where the video would go.  Then I setup ScreenFlick to position the video feed on top of this blue square.  This allows me to avoid having text underlapping the video.
+From udemy videos and youtube I found that the Logitech Webcam was highlighly regarded.  I tried to use a cloth background with it but because I was recording in HD, I could see it was a creased piece of white cloth.  So I abandoned that approach and instead use my white wall.  It has imperfections but it comes across ok.  To get clean (white-ish) lighting I used two softbox lights.  To make in-video camera picture-in-picture work properly I updated my Keynote slides.  By viewing the master slide I was able to place a blue square where the video would go.  Then I setup ScreenFlick to position the video feed on top of this blue square.  This allows me to avoid having text underlapping the video.
 
-From experimentation I found that the final uploaded video would have a black watermark from Udemy in the bottom right, soI had to move the video insert upwards a bit.  I am still experimenting with the best arrangement but it proves adice I saw on youtube - that you should get the content done and uploaded and then see what is needed rather than trying to plan for each detail in advance.
+From experimentation I found that the final uploaded video would have a black watermark from Udemy in the bottom right, so I had to move the video insert upwards a bit.  I am still experimenting with the best arrangement but it proves advice I saw on youtube - that you should get the content done, and uploaded, and then see what is needed, rather than trying to plan for each detail in advance.
 
-To get the webcam configured correctly, it turns out the the software for Mac from Logitech does not allow you to tune its configuration.  It comes with some ScreenCast style software instead.  I instead use ScreenFlick so did not need that.  But the Logitech software has no advanced configuration controls that I need to zoom and pan, and remove autofocus to get a good shot without using up stray items in my background.  To do it I used some pay-for Mac App Store software called "Webcam Settings"
+To get the webcam configured correctly, it turns out the the software for Mac from Logitech does not allow you to tune its configuration.  It comes with some ScreenCast style software instead.  I instead use ScreenFlick so did not need that.  But the Logitech software has no advanced configuration controls.  I need to zoom and pan, and remove autofocus to get a good shot without using up stray items in my background.  To do it I used some pay-for Mac App Store software called "Webcam Settings"
 
 ## Resources
 
@@ -33,7 +33,7 @@ I used the following equipment:
 
 ## Lighting Configuration
 
-The setup I ended up with with to place both softbox lights on my desk, mostly vertical facing, either side of the iMac.  I placed the WebCam near the top centre of my iMac screen.  I don't use any other lights as my room is small and white painted and so the light reflects around nicely.
+The setup I ended up with with to place both softbox lights on my desk, mostly vertical facing, either side of the iMac.  I placed the WebCam near the top centre of my iMac screen.  I don't use any other lights as my room is small and white-painted and so the light reflects around nicely.
 
 ## Teleprompter, or not
 
