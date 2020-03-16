@@ -15,6 +15,8 @@ This guide is a companion guide to my [Audio Setup Guide](https://github.com/fai
 
 ## Approach
 
+![OfficeSetup](./officeDeskLightingSetup.png)
+
 I started off experimenting using my iMac iSight camera and natural light.  The shadows were too strong and there was a yellow hue in the overall image.  The background was being captured also because the iMac camera is wide angle.
 
 From udemy videos and youtube I found that the Logitech Webcam was highlighly regarded.  I tried to use a cloth background with it but because I was recording in HD, I could see it was a creased piece of white cloth.  So I abandoned that approach and instead use my white wall.  It has imperfections but it comes across ok.  To get clean (white-ish) lighting I used two softbox lights.  To make in-video camera picture-in-picture work properly I updated my Keynote slides.  By viewing the master slide I was able to place a blue square where the video would go.  Then I setup ScreenFlick to position the video feed on top of this blue square.  This allows me to avoid having text underlapping the video.
